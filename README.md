@@ -12,6 +12,8 @@
 ## Live Demo
 Follow the link to the application [here](https://gituserssearch.netlify.app/)
 
+The Application is deployed via netlify
+
 ## Technologies used 
 * Angular Version 13.1.2
 * Bootstrap
