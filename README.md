@@ -8,6 +8,9 @@
 * This is a web app that a user can search a github user via consuming Github API. user can sear a user and can search any repository in github.
 
 
+## Live Demo
+Follow the link to the application.
+
 ## Technologies used 
 * Angular Version 13.1.2
 * Bootstrap
