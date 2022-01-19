@@ -9,7 +9,7 @@
 
 
 ## Live Demo
-Follow the link to the application.
+Follow the link to the application [here](https://gituserssearch.netlify.app/)
 
 ## Technologies used 
 * Angular Version 13.1.2
